@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Vishnu KV
 
-I am the CEO of **[Stockeds Software Solutions Private Limited](https://stockeds.com)**. With a passion for innovation and technology, I lead a team dedicated to virtual set creation, game development, and delivering advanced software solutions. I am experienced in multiple programming languages and frameworks, specializing in both frontend and backend development, with a focus on performance, scalability, and cutting-edge technologies.
+I am the **CEO of [Stockeds Software Solutions Private Limited](https://stockeds.com)**, where I lead with vision and innovation in the fields of software development, game development, and advanced virtual production solutions. With a strong technical background and entrepreneurial mindset, I manage high-performing teams, drive technological advancement, and oversee the development of cutting-edge solutions for a global market. My expertise spans multiple programming languages and frameworks, with a focus on performance, scalability, and pioneering technologies.
 
 - 🔭 I’m currently working on **Next.js, WebRTC, and Virtual Set Production**
 - 🌱 I’m constantly learning **DevOps, Cloud Infrastructure, and 3D rendering technologies**
@@ -63,33 +63,23 @@ I am the CEO of **[Stockeds Software Solutions Private Limited](https://stockeds
 
 ## 🚀 Projects
 
-### [Stockeds Virtual Set Solutions](https://stockeds.com)
-**Description**: Developing cutting-edge virtual set solutions integrating Unreal Engine and live broadcast technology for various industries.
+### [Tenexor](https://stockeds.com)
+**Description**: Developing Tenexor integrating Unreal Engine and live broadcast technology for various industries.
 
-**Tech Stack**: Unreal Engine, React, Node.js, Docker, Kubernetes, AWS
+**Tech Stack**: Unreal Engine, React, Node.js, Docker, AWS
 
 ### WebRTC Video Meeting Platform
 **Description**: A real-time video meeting platform using WebRTC for client-admin interaction with advanced video and audio controls, built using React and Node.js.
 
-**Tech Stack**: WebRTC, React, Node.js, Redis, Tailwind CSS, Kubernetes
+**Tech Stack**: WebRTC, React, Node.js, Redis
 
 ### Next.js eCommerce Platform
 **Description**: Building a performant eCommerce website using Next.js integrated with WooCommerce, providing fast, responsive UI for product browsing and checkout.
 
 **Tech Stack**: Next.js, React, Node.js, WooCommerce, Redis, Tailwind CSS, Docker
 
-## 📈 GitHub Stats
-![Vishnu KV's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vishnu-KV-S&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnu-KV-S&layout=compact&theme=radical)
-
 ## 🏆 Achievements & Contributions
 - ⭐ Created advanced virtual set production software used in live broadcasting.
 - 🔥 Contributed to the development of real-time video communication systems using WebRTC.
 - 🏅 Led software development projects that blend creative storytelling with innovative technology.
 - 🚀 Scaled and deployed enterprise-level eCommerce and virtual set solutions using modern DevOps practices.
-
-## 📫 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/vishnukv)
-- [Twitter](https://twitter.com/vishnukv)
-- [Personal Website](https://stockeds.com)
