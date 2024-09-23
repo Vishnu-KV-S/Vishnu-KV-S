@@ -43,7 +43,6 @@ I am the CEO of **[Stockeds Software Solutions Private Limited](https://stockeds
 
 ### 3D & Virtual Set Tools
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white)
-![Aximmetry](https://img.shields.io/badge/Aximmetry-FA7343?style=for-the-badge&logo=axis&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![Cinema 4D](https://img.shields.io/badge/Cinema%204D-011A6A?style=for-the-badge&logo=cinema4d&logoColor=white)
 
@@ -53,12 +52,40 @@ I am the CEO of **[Stockeds Software Solutions Private Limited](https://stockeds
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira-software&logoColor=white)
 
+### Languages and Frameworks
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+### Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Cloud Platforms
+
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+### Machine Learning & AI
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+
 ## 🚀 Projects
 
 ### [Stockeds Virtual Set Solutions](https://stockeds.com)
-**Description**: Developing cutting-edge virtual set solutions integrating Unreal Engine, Aximmetry, and live broadcast technology for various industries.
+**Description**: Developing cutting-edge virtual set solutions integrating Unreal Engine and live broadcast technology for various industries.
 
-**Tech Stack**: Unreal Engine, Aximmetry, React, Node.js, Docker, Kubernetes, AWS
+**Tech Stack**: Unreal Engine, React, Node.js, Docker, Kubernetes, AWS
 
 ### WebRTC Video Meeting Platform
 **Description**: A real-time video meeting platform using WebRTC for client-admin interaction with advanced video and audio controls, built using React and Node.js.
