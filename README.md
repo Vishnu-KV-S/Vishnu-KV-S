@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Vishnu KV
 
-I am the **CEO of [Stockeds Software Solutions Private Limited](https://stockeds.com)**, where I lead with vision and innovation in the fields of software development, game development, and advanced virtual production solutions. With a strong technical background and entrepreneurial mindset, I manage high-performing teams, drive technological advancement, and oversee the development of cutting-edge solutions for a global market. My expertise spans multiple programming languages and frameworks, with a focus on performance, scalability, and pioneering technologies.
+I am the **CEO of [Stockeds Software Solutions Private Limited](https://stockeds.com)**, where I lead with vision and innovation in the fields of software development, game development, and advanced virtual production solutions. With a strong technical background and entrepreneurial mindset, drive technological advancement, and oversee the development of cutting-edge solutions for a global market. My expertise spans multiple programming languages and frameworks, with a focus on performance, scalability, and pioneering technologies.
 
 - 🔭 I’m currently working on **Next.js, WebRTC, and Virtual Set Production**
 - 🌱 I’m constantly learning **DevOps, Cloud Infrastructure, and 3D rendering technologies**
