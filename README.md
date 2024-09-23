@@ -55,25 +55,3 @@ I am the **CEO of [Stockeds Software Solutions Private Limited](https://stockeds
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-
-## 🚀 Projects
-
-### [Tenexor](https://stockeds.com)
-**Description**: Developing Tenexor integrating Unreal Engine and live broadcast technology for various industries.
-
-### WebRTC Video Meeting Platform
-**Description**: A real-time video meeting platform using WebRTC for client-admin interaction with advanced video and audio controls, built using React and Node.js.
-
-**Tech Stack**: WebRTC, React, Node.js, Redis
-
-### Next.js eCommerce Platform
-**Description**: Building a performant eCommerce website using Next.js integrated with WooCommerce, providing fast, responsive UI for product browsing and checkout.
-
-**Tech Stack**: Next.js, React, Node.js, WooCommerce, Redis, Tailwind CSS, Docker
-
-## 🏆 Achievements & Contributions
-- ⭐ Created advanced virtual set production software used in live broadcasting.
-- 🔥 Contributed to the development of real-time video communication systems using WebRTC.
-- 🏅 Led software development projects that blend creative storytelling with innovative technology.
-- 🚀 Scaled and deployed enterprise-level eCommerce and virtual set solutions using modern DevOps practices.
