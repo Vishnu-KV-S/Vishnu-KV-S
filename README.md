@@ -62,8 +62,6 @@ I am the **CEO of [Stockeds Software Solutions Private Limited](https://stockeds
 ### [Tenexor](https://stockeds.com)
 **Description**: Developing Tenexor integrating Unreal Engine and live broadcast technology for various industries.
 
-**Tech Stack**: Unreal Engine, React, Node.js, Docker, AWS
-
 ### WebRTC Video Meeting Platform
 **Description**: A real-time video meeting platform using WebRTC for client-admin interaction with advanced video and audio controls, built using React and Node.js.
 
