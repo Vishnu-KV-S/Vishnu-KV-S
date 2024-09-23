@@ -2,13 +2,6 @@
 
 I am the **CEO of [Stockeds Software Solutions Private Limited](https://stockeds.com)**, where I lead with vision and innovation in the fields of software development, game development, and advanced virtual production solutions. With a strong technical background and entrepreneurial mindset, drive technological advancement, and oversee the development of cutting-edge solutions for a global market. My expertise spans multiple programming languages and frameworks, with a focus on performance, scalability, and pioneering technologies.
 
-- 🔭 I’m currently working on **Next.js, WebRTC, and Virtual Set Production**
-- 🌱 I’m constantly learning **DevOps, Cloud Infrastructure, and 3D rendering technologies**
-- 👯 I’m looking to collaborate on **innovative software development, virtual production projects, and real-time video communication**
-- 💬 Ask me about **C, C++, React, Next.js, Node.js, Unreal Engine, DevOps, and more**
-- 📫 How to reach me: **vishnukv@stockeds.com**
-- ⚡ Fun fact: **I enjoy blending creative storytelling with cutting-edge technology**
-
 ## 🛠 Tech Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
