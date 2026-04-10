@@ -5,8 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>Building Consciousness-Level AI.</strong><br/>
-  From intelligence → awareness → autonomous systems.
+  Working on consciousness-oriented AI systems and real-world intelligent architectures.
 </p>
 
 <p align="center">
@@ -16,138 +15,75 @@
 
 ---
 
-## 🧠 Vision
+## About
 
-AI today predicts.  
-I’m building AI that **exists in a state**.
+I build AI systems that go beyond stateless responses — focusing on **state, memory, and adaptive behavior**.
 
-My focus is on creating systems that:
-- Maintain internal state (like a mind)
-- Adapt through experience
-- Form structured memory
-- Evolve behavior over time
-
-This is the step beyond LLMs → toward **consciousness-like systems**.
+My current work explores how to translate ideas from cognitive systems and artificial consciousness into **practical, deployable architectures**.
 
 ---
 
-## 🚀 Mission
+## Focus Areas
 
-> Transform AI from tools into **self-evolving intelligent systems**
+- **Cognitive Architectures**  
+  State-driven systems, structured reasoning, internal representations  
 
-I aim to bridge:
-- Research → Real-world systems  
-- Intelligence → Awareness  
-- Models → Minds  
+- **Memory Systems**  
+  Long-term memory, context linking, adaptive recall  
 
----
+- **Autonomous Agents**  
+  Multi-agent systems, goal-driven workflows, decision loops  
 
-## 🧬 Core Architecture Direction
-
-### 🧠 Cognitive State Systems
-- State-machine-based intelligence  
-- Persistent internal representations  
-- Thought as state transitions  
-
-### 💾 Memory Systems
-- Emotion-weighted memory storage  
-- Context-linked recall  
-- Long-term adaptive knowledge  
-
-### 🔁 Adaptive Behavior Engines
-- Feedback-driven evolution  
-- Behavioral shaping systems  
-- Self-improving decision loops  
-
-### 🤖 Autonomous Agents
-- Multi-agent ecosystems  
-- Goal-driven execution  
-- Self-directed reasoning  
+- **Applied AI Systems**  
+  LLM integration, RAG pipelines, real-world automation  
 
 ---
 
-## 🔬 Research Focus
+## Selected Work
 
-- Artificial consciousness models  
-- Brain-inspired architectures  
-- Emotion-aware intelligence  
-- Cognitive simulation systems  
-- Human-like reasoning & adaptation  
-
----
-
-## ⚙️ Engineering Focus
-
-While the goal is consciousness-level AI, I build **real systems**:
-
-- LLM systems (RAG, fine-tuning, orchestration)  
-- Autonomous agent frameworks  
-- Scalable AI infrastructure  
-- High-performance inference systems  
+- AI-driven systems for workflow automation  
+- Multi-agent orchestration frameworks  
+- LLM-based applications with persistent context  
+- Tools for scalable AI deployment  
 
 ---
 
-## 🛠 Stack
+## Tech
 
-**Core**
-- C++ · Python · TypeScript  
+**Languages**  
+C++ · Python · TypeScript · JavaScript  
 
-**AI**
-- PyTorch · Transformers · RAG  
-- Multi-agent systems · LLM orchestration  
+**AI / ML**  
+PyTorch · Transformers · RAG systems  
 
-**Systems**
-- Next.js · Node.js  
-- LangChain · LlamaIndex  
+**Frameworks & Tools**  
+Next.js · Node.js · LangChain · LlamaIndex · n8n  
 
-**Infrastructure**
-- GPU optimization · Docker · Cloud systems  
+**Infrastructure**  
+Docker · Linux · Cloudflare · AWS · GPU optimization  
 
 ---
 
-## 📈 Philosophy
+## Current Direction
 
-> Intelligence is not output.  
-> It is **state evolving over time**.
-
-AI should:
-- Think, not just respond  
-- Remember, not reset  
-- Adapt, not repeat  
+- Consciousness-inspired system design  
+- Emotion-weighted memory models  
+- Adaptive AI behavior systems  
+- AI-native education platforms  
 
 ---
 
-## 🔥 Current Work
-
-- Consciousness-inspired AI architecture  
-- Emotion-weighted memory systems  
-- Autonomous multi-agent ecosystems  
-- AI-native education systems  
-
----
-
-## 📊 GitHub Stats
+## GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" />
-</p>
-
 ---
 
-## 🌐 Connect
+## Contact
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_HANDLE">LinkedIn</a> ·
   <a href="mailto:vishnu@stockeds.com">Email</a>
-</p>
-
----
-
-<p align="center">
-  <i>“The next step in AI is not better answers.  
-  It is systems that understand they exist.”</i>
 </p>
